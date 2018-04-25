@@ -49236,6 +49236,18 @@
 		<default></default>
 	</attribute>
 	<attribute>
+		<id>SLOT_INDEX</id>
+		<default>1</default>
+	</attribute>
+	<attribute>
+		<id>SLOT_NAME</id>
+		<default>BMC0</default>
+	</attribute>
+	<attribute>
+		<id>SLOT_TYPE</id>
+		<default></default>
+	</attribute>
+	<attribute>
 		<id>TYPE</id>
 		<default>BMC</default>
 	</attribute>
@@ -130459,7 +130471,7 @@
 	</attribute>
 	<attribute>
 		<id>SLOT_NAME</id>
-		<default>SLOTB</default>
+		<default>SLOTC</default>
 	</attribute>
 	<attribute>
 		<id>SLOT_TYPE</id>
@@ -130563,7 +130575,7 @@
 	</attribute>
 	<attribute>
 		<id>SLOT_NAME</id>
-		<default>SLOTB</default>
+		<default>SLOTD</default>
 	</attribute>
 	<attribute>
 		<id>SLOT_TYPE</id>
@@ -130667,7 +130679,7 @@
 	</attribute>
 	<attribute>
 		<id>SLOT_NAME</id>
-		<default>SLOTB</default>
+		<default>SLOTE</default>
 	</attribute>
 	<attribute>
 		<id>SLOT_TYPE</id>
@@ -130771,7 +130783,7 @@
 	</attribute>
 	<attribute>
 		<id>SLOT_NAME</id>
-		<default>SLOTB</default>
+		<default>SLOTF</default>
 	</attribute>
 	<attribute>
 		<id>SLOT_TYPE</id>
