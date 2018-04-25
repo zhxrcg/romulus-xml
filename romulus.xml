@@ -46367,7 +46367,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMMA</default>
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE_TYPE</id>
@@ -47468,7 +47468,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMMB</default>
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE_TYPE</id>
@@ -47572,7 +47572,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMMC</default>
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE_TYPE</id>
@@ -47676,7 +47676,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMMD</default>
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE_TYPE</id>
@@ -47780,7 +47780,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMME</default>
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE_TYPE</id>
@@ -47884,7 +47884,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMMF</default>
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE_TYPE</id>
@@ -47988,7 +47988,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMMG</default>
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE_TYPE</id>
@@ -48092,7 +48092,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMMH</default>
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE_TYPE</id>
@@ -48196,7 +48196,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMMI</default>
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE_TYPE</id>
@@ -48300,7 +48300,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMMJ</default>
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE_TYPE</id>
@@ -48404,7 +48404,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMMK</default>
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE_TYPE</id>
@@ -48508,7 +48508,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMML</default>
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE_TYPE</id>
@@ -48612,7 +48612,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMMM</default>
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE_TYPE</id>
@@ -48716,7 +48716,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMMN</default>
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE_TYPE</id>
@@ -48820,7 +48820,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMMO</default>
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE_TYPE</id>
@@ -48924,7 +48924,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMMP</default>
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE_TYPE</id>
