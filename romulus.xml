@@ -46367,7 +46367,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default>DIMMA</default>
+		<default>CPU0_C0D0</default>
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE_TYPE</id>
@@ -47468,7 +47468,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default>DIMMB</default>
+		<default>CPU0_C0D1</default>
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE_TYPE</id>
@@ -47572,7 +47572,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default>DIMMC</default>
+		<default>CPU0_C1D0</default>
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE_TYPE</id>
@@ -47676,7 +47676,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default>DIMMD</default>
+		<default>CPU0_C1D1</default>
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE_TYPE</id>
@@ -47780,7 +47780,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default>DIMME</default>
+		<default>CPU0_C6D0</default>
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE_TYPE</id>
@@ -47884,7 +47884,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default>DIMMF</default>
+		<default>CPU0_C6D1</default>
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE_TYPE</id>
@@ -47988,7 +47988,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default>DIMMG</default>
+		<default>CPU0_C7D0</default>
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE_TYPE</id>
@@ -48092,7 +48092,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default>DIMMH</default>
+		<default>CPU0_C7D1</default>
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE_TYPE</id>
@@ -48196,7 +48196,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default>DIMMI</default>
+		<default>CPU1_C0D0</default>
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE_TYPE</id>
@@ -48300,7 +48300,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default>DIMMJ</default>
+		<default>CPU1_C0D1</default>
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE_TYPE</id>
@@ -48404,7 +48404,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default>DIMMK</default>
+		<default>CPU1_C1D0</default>
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE_TYPE</id>
@@ -48508,7 +48508,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default>DIMML</default>
+		<default>CPU1_C1D1</default>
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE_TYPE</id>
@@ -48612,7 +48612,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default>DIMMM</default>
+		<default>CPU1_C6D0</default>
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE_TYPE</id>
@@ -48716,7 +48716,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default>DIMMN</default>
+		<default>CPU1_C6D1</default>
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE_TYPE</id>
@@ -48820,7 +48820,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default>DIMMO</default>
+		<default>CPU1_C7D0</default>
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE_TYPE</id>
@@ -48924,7 +48924,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default>DIMMP</default>
+		<default>CPU1_C7D1</default>
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE_TYPE</id>
