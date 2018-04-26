@@ -1988,6 +1988,17 @@
 		<value>0x1</value>
 		</enumerator>
 </enumerationType>
+ <enumerationType>
+        <id>SYSTEM_VDM_DISABLE</id>
+                <enumerator>
+                <name>OFF</name>
+                <value>0x00</value>
+                </enumerator>
+                <enumerator>
+                <name>ON</name>
+                <value>0x01</value>
+                </enumerator>
+</enumerationType>
 <enumerationType>
 	<id>SYSTEM_WOF_DISABLE</id>
 		<enumerator>
@@ -2434,15 +2445,15 @@
 		</enumerator>
 </enumerationType>
 <enumerationType>
-	<id>WOF_ENABLE_FRATIO</id>
-		<enumerator>
-		<name>FIXED</name>
-		<value>0</value>
-		</enumerator>
-		<enumerator>
-		<name>STEPPED</name>
-		<value>1</value>
-		</enumerator>
+        <id>WOF_ENABLE_VRATIO</id>
+                <enumerator>
+                <name>CALCULATED</name>
+                <value>1</value>
+                </enumerator>
+                <enumerator>
+                <name>FIXED</name>
+                <value>0</value>
+                </enumerator>
 </enumerationType>
 <enumerationType>
 	<id>WOF_ENABLE_VRATIO</id>
@@ -7316,7 +7327,7 @@
 	</attribute>
 	<attribute>
 		<id>SUPPORTED_STOP_STATES</id>
-		<default>0xE0000000</default>
+		<default>0xEC000000</default>
 	</attribute>
 	<attribute>
 		<id>SUPPORTS_DYNAMIC_MEM_VOLT</id>
@@ -7366,6 +7377,10 @@
 		<id>SYSTEM_TYPE</id>
 		<default>ibm,romulus</default>
 	</attribute>
+        <attribute>
+                <id>SYSTEM_VDM_DISABLE</id>
+                <default>OFF</default>
+        </attribute>
 	<attribute>
 		<id>SYSTEM_WOF_ENABLED</id>
 		<default>OFF</default>
@@ -7448,7 +7463,7 @@
 	</attribute>
 	<attribute>
 		<id>WOF_ENABLE_VRATIO</id>
-		<default>FIXED</default>
+		<default>CALCULATED</default>
 	</attribute>
 	<attribute>
 		<id>WOF_POWER_LIMIT</id>
