@@ -8191,7 +8191,7 @@
 		</bus_attribute>
 		<bus_attribute>
 			<id>I2C_SPEED</id>
-		<default>100</default>
+		<default>400</default>
 		</bus_attribute>
 		<bus_attribute>
 			<id>I2C_TYPE</id>
@@ -10405,8 +10405,8 @@
 	</attribute>
 	<attribute>
 		<id>I2C_BUS_SPEED_ARRAY</id>
-		<default>1000,1000,0,0,0,0,0,0,0,0,0,0,0,
-                    1000,1000,1000,1000,0,0,0,0,0,0,0,0,0,
+		<default>400,400,0,0,0,0,0,0,0,0,0,0,0,
+                    400,400,400,400,0,0,0,0,0,0,0,0,0,
                     0,0,0,0,0,0,0,0,0,0,0,0,0,
                     0,0,0,0,0,0,0,0,0,0,0,0,0</default>
 	</attribute>
