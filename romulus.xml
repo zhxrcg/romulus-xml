@@ -6255,11 +6255,7 @@
 	</attribute>
 	<attribute>
 		<id>MAX_ALLOWED_DIMM_FREQ</id>
-<<<<<<< HEAD
 		<default>2666,2666,2666,2666,2666</default>
-=======
-		<default>2666,2666,2666,2400,2400</default>
->>>>>>> d91ade7643d6cabc0ba1d5c6f53d3f02c5b01fda
 	</attribute>
 	<attribute>
 		<id>MAX_CHIPLETS_PER_PROC</id>
