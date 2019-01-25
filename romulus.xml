@@ -6042,7 +6042,7 @@
 	</attribute>
 	<attribute>
 		<id>FREQ_PROC_REFCLOCK_KHZ</id>
-		<default>0x20788</default>
+		<default>0x208D5</default>
 	</attribute>
 	<attribute>
 		<id>FREQ_X_HFT</id>
@@ -6050,7 +6050,7 @@
 	</attribute>
 	<attribute>
 		<id>FREQ_X_MHZ</id>
-		<default>0x708</default>
+		<default>2000</default>
 	</attribute>
 	<attribute>
 		<id>FRU_ID</id>
